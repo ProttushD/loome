@@ -159,10 +159,14 @@ color: #707360;
 }
 
 .main .section1 .left .part-3 .detail p{
-    font-size: 24;
+    font-size: 12;
    
 }
 
+
+.main .section1 .left .part-3  .detail-2 p{
+    font-size: 12px;
+}
 .main .section1 .left .part-3 .colour{
     display: flex;
     width: 100%;
